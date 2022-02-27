@@ -1,0 +1,17 @@
+.container img{
+  width: 100px;
+}
+.nav-item a{
+  font-size: 16px;
+  color: #000000;
+  line-height: 24px;
+}
+.style-btn{
+  margin-left: 20px;
+  padding: 12px 28px;
+  background-color: #21B573;
+  color: #fff;
+  border-radius: 33px;
+  font-size: 16px;
+  line-height: 19px;
+}
